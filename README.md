@@ -10,3 +10,4 @@ Directories | Description
 [0x00. Python - Hello, World] | Introduction to Python programming
 [0x01. Python - if/else, loops, functions] | Introduction to Python if/else statements, loops and functions
 [0x02. Python - import & modules] | Introduction to Python modules
+[0x03. Python - Data Structures: Lists, Tuples] | Introduction to Python data structures
