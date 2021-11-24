@@ -11,3 +11,4 @@ Directories | Description
 [0x01. Python - if/else, loops, functions] | Introduction to Python if/else statements, loops and functions
 [0x02. Python - import & modules] | Introduction to Python modules
 [0x03. Python - Data Structures: Lists, Tuples] | Introduction to Python data structures
+[0x04. Python - More Data Structures: Set, Dictionary] | Advanced data structures in Python
