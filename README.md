@@ -12,3 +12,4 @@ Directories | Description
 [0x02. Python - import & modules] | Introduction to Python modules
 [0x03. Python - Data Structures: Lists, Tuples] | Introduction to Python data structures
 [0x04. Python - More Data Structures: Set, Dictionary] | Advanced data structures in Python
+[0x05. Python - Exceptions] | Introduction to Python exceptions and error handling
