@@ -14,3 +14,4 @@ Directories | Description
 [0x04. Python - More Data Structures: Set, Dictionary] | Advanced data structures in Python
 [0x05. Python - Exceptions] | Introduction to Python exceptions and error handling
 [0x06. Python - Classes and Objects] | Introduction to classes and objects in Python
+[0x08. Python - More Classes and Objects] | Advanced classes and objects in Python
