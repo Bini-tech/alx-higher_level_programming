@@ -19,3 +19,4 @@ Directories | Description
 [0x09. Python - Everything is object] | Introduction to OOP concepts in Python
 [0x0A. Python - Inheritance] | Introduction to class inheritance in Python
 [0x0B. Python - Input/Output] | Introduction to file input and output in Python
+[0x0C. Python - Almost a circle] | Construction of classes with a base model, to practice inheritance in Python
