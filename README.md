@@ -21,3 +21,4 @@ Directories | Description
 [0x0B. Python - Input/Output] | Introduction to file input and output in Python
 [0x0C. Python - Almost a circle] | Construction of classes with a base model, to practice inheritance in Python
 [0x0D. SQL - Introduction] | Introduction to Databases, SQL and mySQL
+[0x0E. SQL - More queries] | Advanced SQL
