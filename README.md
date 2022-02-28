@@ -8,7 +8,7 @@ This repository contains directories each corresponding to a high-level language
 Directories | Description
 ----------- | -----------
 [0x00. Python - Hello, World] | Introduction to Python programming
-[0x01. Python - if/else, loops, functions] | Introduction to Python if/else statements, loops and functions
+i[0x01. Python - if/else, loops, functions] | Introduction to Python if/else statements, loops and functions
 [0x02. Python - import & modules] | Introduction to Python modules
 [0x03. Python - Data Structures: Lists, Tuples] | Introduction to Python data structures
 [0x04. Python - More Data Structures: Set, Dictionary] | Advanced data structures in Python
@@ -22,3 +22,4 @@ Directories | Description
 [0x0C. Python - Almost a circle] | Construction of classes with a base model, to practice inheritance in Python
 [0x0D. SQL - Introduction] | Introduction to Databases, SQL and mySQL
 [0x0E. SQL - More queries] | Advanced SQL
+[0x12. JavaScript - Warm up] | Introduction to Javascript/NodeJS
