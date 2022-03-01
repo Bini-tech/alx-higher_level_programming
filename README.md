@@ -23,3 +23,4 @@ i[0x01. Python - if/else, loops, functions] | Introduction to Python if/else sta
 [0x0D. SQL - Introduction] | Introduction to Databases, SQL and mySQL
 [0x0E. SQL - More queries] | Advanced SQL
 [0x12. JavaScript - Warm up] | Introduction to Javascript/NodeJS
+[0x13. JavaScript - Objects, Scopes and Closures] | Introduction to NodeJS: objects, scopes, closures
